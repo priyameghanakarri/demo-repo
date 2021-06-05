@@ -1,2 +1,3 @@
 # demo-repo
-just like that!
+just like that.
+
